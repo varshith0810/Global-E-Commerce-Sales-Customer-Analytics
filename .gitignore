@@ -1,0 +1,15 @@
+# Environments
+.conda/
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
